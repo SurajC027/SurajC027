@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj Choudhury
 - A career switcher diving into the world of Cloud and DevOps! With 3 years of experience in AML/KYC operations, I bring a strong foundation in analytical thinking and process management. I’m currently learning AWS, Linux, and Python, and working on projects that involve automation, infrastructure as code, and cloud deployment. I’m passionate about building clean, scalable, and secure solutions as I transition into roles like Cloud Engineer and Junior DevOps Engineer. Check out my projects and journey here!
 - I’m interested in Cloud Engineering – Building and managing scalable infrastructure on AWS, DevOps Practices – CI/CD, infrastructure as code, and automation Linux & Scripting – Leveraging Linux fundamentals and Python for automation, Tools & Technologies – Docker, Git, Jenkins, Terraform, and other DevOps tools, Monitoring & Optimization – Learning to build reliable, observable systems, Continuous Learning – Exploring new tech trends in cloud-native development.
-- 🌱 I’m currently learning Bangalore, Karnataka.
+- 🌱 I’m currently learning AWS, Linux, Python, Ansible, Jenkins, Docker, Kubernetes, Git, Terraform and other DevOps tools.
 - 📫 Reach Me: surajchoudhury027@gmail.com
